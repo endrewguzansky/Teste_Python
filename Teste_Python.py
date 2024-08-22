@@ -9,7 +9,7 @@ class Livro:
         return self._titulo
 
     def set_titulo(self):                    
-        return self._titulo                  # METODO GET E SET PARA PERMITIR A LEITIRA E ALTERAÇÃO DESSES VALORES DE FORMA CONTROLADA.
+        return self._titulo                  # METODO GET E SET PARA PERMITIR A LEITURA E ALTERAÇÃO DESSES VALORES DE FORMA CONTROLADA.
                                            
     def get_autor(self):
         return self._autor
